@@ -1,0 +1,4 @@
+name: CommonLib
+main: pro.dracarys.CommonLib.CommonLib
+author: Dracarys
+version: ${project.version}
